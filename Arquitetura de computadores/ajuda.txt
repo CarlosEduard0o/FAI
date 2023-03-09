@@ -1,0 +1,6 @@
+0 0 0 0
+0 0 0 1
+0 0 1 0
+0 0 1 1
+
+Terceiro bit, quando for zero ele grava, quando for 1 ele lê
